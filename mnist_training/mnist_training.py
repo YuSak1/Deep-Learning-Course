@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-#Team: Felipe Vianna and Yuu Sakagushi
-# Felipe Vianna: 72ef319b-1ef9-11e8-9de3-00505601122b
-# Yuu Sakagushi: d9fbf49b-1c71-11e8-9de3-00505601122b
-
 import numpy as np
 import tensorflow as tf
 import math
